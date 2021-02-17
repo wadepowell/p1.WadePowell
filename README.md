@@ -10,9 +10,7 @@
 a). Whenever you click a number it procedes to cook for that many minutes. There's no indication that it will start once you click a button as opposed to heating
 for an amount of seconds or clicking a number and then pressing start
 
-b). It is not clear what the beverage setting does. Does it heat up a drink or boil it? 
-
-c). There are alot of buttons like, reheat, defrost, etc. that could potentially be useful but remain unused because they are unneded. For example, why do I need a
+b). There are alot of buttons like, reheat, defrost, etc. that could potentially be useful but remain unused because they are unneded. For example, why do I need a
 reheat button on a microwave? Isn't the purpose of a microwave to reheat food? Just put the food in for a minute. I think the interface should be very simple with 
 only buttons to heat up the food. The more buttons the more crowded the interface seems.
 
@@ -29,3 +27,27 @@ rest kernels. This means I have to add more time anyways.
 
 b). I also use the "defrost" button whenever I need to defrost food. Once again, I typically end up needing to run the frozen food through one or two defrost cycles 
 before it actually thaws out.
+
+# How the Interface Helps:
+
+The current interface does help with some common uses with functions like add 30 seconds and whenever you click a number it starts for that amount of minutes. These  
+features can be helpful in that it lets you avoid clicking the start button. Its just one button and your food starts being heated up.
+
+# Common Sequence of Actions:
+
+A common sequence of actions is typically putting food in the microwave and clicking the number for how many minutes you want the food to cook. If I want my food to
+cook a little longer than what I initially put it in for another common thing that I do is click the add 30 seconds button.
+
+# How the Microwave Helps, Hurts, and Gives Feedback:
+
+The current interface on the microwave supports the user by having key words indicating what that button might do. It also supports the user by only having a handle 
+to open and close the door. This way it is very clear that the only way to open the door is to pull the handle and obviously the only way to close it is to push it 
+closed. On the downside, many of the buttons such as the "popcorn," "defrost," "reheat," etc. are not very helpful because, from personal experience, they do not 
+achieve their intended purpose; they typically over or under heat the food. However, despite its flaws, it is fairly simple to figure out how the microwave works by
+trial and error. For example, you can click the defrost button and on the tiny screen it will display how long its going to heat up the food and at what power level 
+its running on.
+
+# Common Mistakes:
+
+A common mistake I have seen from guests using the microwave is clicking a number thinking they will have to press the amount of seconds they want to heat the food
+up. They will end up cliking their first number but the microwave will start for that many minutes.
