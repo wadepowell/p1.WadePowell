@@ -31,7 +31,7 @@ before it actually thaws out.
 # How the Interface Helps:
 
 The current interface does help with some common uses with functions like add 30 seconds and whenever you click a number it starts for that amount of minutes. These  
-features can be helpful in that it lets you avoid clicking the start button. Its just one button and your food starts being heated up.
+features can be helpful in that it lets you avoid clicking the start button. Its just one button and your food starts being heated up. 
 
 # Common Sequence of Actions:
 
@@ -50,4 +50,4 @@ its running on.
 # Common Mistakes:
 
 A common mistake I have seen from guests using the microwave is clicking a number thinking they will have to press the amount of seconds they want to heat the food
-up. They will end up cliking their first number but the microwave will start for that many minutes.
+up. They will end up cliking their first number but the microwave will start for that many minutes. Another common mistake I have made was clicking clock time thinking it was the button to push to heat something up for a specific amount of seconds. Unfortunatley that only sets a timer, set time is the button that will heat food up for a number of seconds. This made me ask, why does a microwave have a timer?
