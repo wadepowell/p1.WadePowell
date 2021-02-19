@@ -16,6 +16,9 @@ b). There are alot of buttons like, reheat, defrost, etc. that could potentially
 reheat button on a microwave? Isn't the purpose of a microwave to reheat food? Just put the food in for a minute. I think the interface should be very simple with 
 only buttons to heat up the food. The more buttons the more crowded the interface seems.
 
+c). Another issue with this interface is if you click 1, the microwave will start heating up for 1 minute. If yiou click 2, however, the microwave will not add 2 
+more minutes it will keep the 1.
+
 # Common Uses:
 
 a). The most common use I have is heating up food by just clicking a number for the amount of minutes I want to cook.
@@ -33,7 +36,8 @@ before it actually thaws out.
 # How the Interface Helps:
 
 The current interface does help with some common uses with functions like add 30 seconds and whenever you click a number it starts for that amount of minutes. These  
-features can be helpful in that it lets you avoid clicking the start button. Its just one button and your food starts being heated up. 
+features can be helpful in that it lets you avoid clicking the start button or messing with a specific amount of seconds. Its just one button and your food starts
+heating up. 
 
 # Common Sequence of Actions:
 
@@ -47,7 +51,7 @@ to open and close the door. This way it is very clear that the only way to open 
 closed. On the downside, many of the buttons such as the "popcorn," "defrost," "reheat," etc. are not very helpful because, from personal experience, they do not 
 achieve their intended purpose; they typically over or under heat the food. However, despite its flaws, it is fairly simple to figure out how the microwave works by
 trial and error. For example, you can click the defrost button and on the tiny screen it will display how long its going to heat up the food and at what power level 
-its running on.
+its running on. For feedback, everytime you click a button on the microwave it will beep. It will also give a unique beep when its doen cooking.
 
 # Common Mistakes:
 
