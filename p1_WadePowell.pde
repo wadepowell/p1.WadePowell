@@ -208,7 +208,7 @@ void mouseClicked(){
    The default settind deals in minutes. It does this for every numbered button.
    */
   if(ctime==1){
-    timerC=(timerC*10)+((3600/60)/10);
+    timerC=(timerC*10)+((3600/60)*1);
   }
   else if(ctime==0){
     timer += 3600; 
@@ -278,9 +278,12 @@ void mouseClicked(){
   timer += (3600*9); 
    }
   }
-  if(mouseX> 730 && mouseX < 800 && mouseY>160 && mouseY<220){ 
+  if(mouseX> 810 && mouseX < 880 && mouseY>355 && mouseY<415){ 
   if(ctime==1){
      timerC=(timerC*10);
+   }
+   else{
+     timer=0;
    }
   }
   //this is the start button 
